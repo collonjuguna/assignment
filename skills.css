@@ -1,0 +1,29 @@
+#main{
+    display:inline-flex;
+    width: 90%;
+    height: 70px;
+    margin: auto;
+}
+.division1{
+    display: grid;
+    width: 80%;
+    height: 50px;
+    padding: 8px;
+    text-align: left;
+}
+.division2{
+    display: grid;
+    width: 30%;
+    height: 50px;
+    padding: 8px;
+}
+.division3{
+    display: grid;
+    width: 50%;
+    height: 50px;
+    padding: 8px;
+}
+img{
+    width: 150px;
+    height: 120px;
+}

@@ -1,0 +1,18 @@
+.main{
+    display: grid;
+}
+.paragraph1 {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+}
+p{
+    margin-left: 30px;
+}
+
+
+

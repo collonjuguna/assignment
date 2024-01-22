@@ -1,0 +1,35 @@
+body {
+    background-color: #634069;
+
+
+}
+
+
+form {
+    background-color: #441d44;
+    width: 50%;
+    margin: auto;
+
+    padding: 50px;
+
+
+}
+legend{
+
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+textarea{
+    text-align: center;
+    border-radius: 4px;}
+
+label{
+    display: inline-block;
+width: 90px;
+    }
+
+
+
+

@@ -1,0 +1,43 @@
+form{
+    background-color: #69acd0;
+ width: 50%;
+    height: 100%;
+    margin: auto;
+    padding: 30px;
+
+
+}
+legend{
+
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+
+textarea{
+    text-align: center;
+    border-radius: 4px;}
+button {
+    background-color: #634069;
+
+}
+
+label{
+    display: inline-block;
+width: 90px;
+    padding: 1px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
